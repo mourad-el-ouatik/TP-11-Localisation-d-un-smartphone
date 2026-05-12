@@ -1,4 +1,4 @@
-# 📍 LAB-10 | LocalisationSmartphone — Tracking GPS en temps réel
+# 📍 LAB-11 | LocalisationSmartphone — Tracking GPS en temps réel
 
 Une application Android démontrant la **géolocalisation GPS** avec `LocationManager` et l'envoi automatique des coordonnées vers un serveur PHP via **Volley**, avec gestion des permissions Android à l'exécution.
 
@@ -153,4 +153,4 @@ Ce laboratoire démontre comment utiliser les capteurs Android pour collecter et
 
 ## 👨‍💻 Auteur
 
-**Mourad EL OUATIK** | Réalisé dans le cadre du **Lab 10 Android** | Programmation & Sécurité des Applications Mobile
+**Mourad EL OUATIK** | Réalisé dans le cadre du **Lab 11 Android** | Programmation & Sécurité des Applications Mobile
